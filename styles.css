@@ -1,0 +1,10 @@
+nav ul li { display:inline; color: #916036; }
+nav ul li a:hover { background-color: #e66f09; color: #375e66; }
+.heading {font-family: "Montserrat", Arial, sans-serif; color: #916036}
+body {background-color: #0ac1e5; color: #3c322a}
+table, th, td{border: 1px solid #3c322a;background-color: #3092a6;border-collapse: collapse;}
+hr{height:2px;border-width:0;color:#e66f09; background-color:#e66f09;}
+form{background-color:#3c322a;color:#e66f09; border:5px solid #3c322a;}
+input{background-color:#3092a6; color:#3c322a;}
+textarea{background-color:#3092a6; color:#3c322a;}
+select{background-color:#3092a6;color:#3c322a;}
